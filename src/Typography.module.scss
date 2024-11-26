@@ -1,0 +1,5 @@
+@import './_typography.scss';
+
+.text_normal {
+  @include text-normal;
+}
